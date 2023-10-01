@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/hassa/AndroidStudioProjects/Leacture Examples/ObitTechGUI/app/src/main/res/drawable/bg_iv.xml" value="0.1" />
+        <entry key="..\:/Users/hassa/AndroidStudioProjects/Leacture Examples/ObitTechGUI/app/src/main/res/drawable/cancel_iv.xml" value="0.1685" />
+        <entry key="..\:/Users/hassa/AndroidStudioProjects/Leacture Examples/ObitTechGUI/app/src/main/res/drawable/code_box.xml" value="0.1735" />
+        <entry key="..\:/Users/hassa/AndroidStudioProjects/Leacture Examples/ObitTechGUI/app/src/main/res/drawable/cont_btn.xml" value="0.2015" />
+        <entry key="..\:/Users/hassa/AndroidStudioProjects/Leacture Examples/ObitTechGUI/app/src/main/res/drawable/dialog_bg.xml" value="0.1685" />
+        <entry key="..\:/Users/hassa/AndroidStudioProjects/Leacture Examples/ObitTechGUI/app/src/main/res/drawable/dialog_btn2.xml" value="0.2015" />
+        <entry key="..\:/Users/hassa/AndroidStudioProjects/Leacture Examples/ObitTechGUI/app/src/main/res/drawable/dialog_btns.xml" value="0.2015" />
+        <entry key="..\:/Users/hassa/AndroidStudioProjects/Leacture Examples/ObitTechGUI/app/src/main/res/drawable/dialog_styles.xml" value="0.126" />
+        <entry key="..\:/Users/hassa/AndroidStudioProjects/Leacture Examples/ObitTechGUI/app/src/main/res/drawable/dialogbox_bg.xml" value="0.1" />
+        <entry key="..\:/Users/hassa/AndroidStudioProjects/Leacture Examples/ObitTechGUI/app/src/main/res/drawable/forget_bg_edittxt.xml" value="0.148" />
+        <entry key="..\:/Users/hassa/AndroidStudioProjects/Leacture Examples/ObitTechGUI/app/src/main/res/drawable/gradient_bg.xml" value="0.148" />
+        <entry key="..\:/Users/hassa/AndroidStudioProjects/Leacture Examples/ObitTechGUI/app/src/main/res/drawable/ic_baseline_cancel_24.xml" value="0.1" />
+        <entry key="..\:/Users/hassa/AndroidStudioProjects/Leacture Examples/ObitTechGUI/app/src/main/res/drawable/receipt_frame.xml" value="0.148" />
+        <entry key="..\:/Users/hassa/AndroidStudioProjects/Leacture Examples/ObitTechGUI/app/src/main/res/drawable/spinner_bg.xml" value="0.2015" />
+        <entry key="..\:/Users/hassa/AndroidStudioProjects/Leacture Examples/ObitTechGUI/app/src/main/res/layout/activity_contact_us.xml" value="0.25" />
+        <entry key="..\:/Users/hassa/AndroidStudioProjects/Leacture Examples/ObitTechGUI/app/src/main/res/layout/activity_create_account.xml" value="0.25" />
+        <entry key="..\:/Users/hassa/AndroidStudioProjects/Leacture Examples/ObitTechGUI/app/src/main/res/layout/activity_filter.xml" value="0.25" />
+        <entry key="..\:/Users/hassa/AndroidStudioProjects/Leacture Examples/ObitTechGUI/app/src/main/res/layout/activity_home_screen_drawer.xml" value="0.25" />
+        <entry key="..\:/Users/hassa/AndroidStudioProjects/Leacture Examples/ObitTechGUI/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/Users/hassa/AndroidStudioProjects/Leacture Examples/ObitTechGUI/app/src/main/res/layout/activity_main_fragment_nav.xml" value="0.25" />
+        <entry key="..\:/Users/hassa/AndroidStudioProjects/Leacture Examples/ObitTechGUI/app/src/main/res/layout/activity_receipt_detail.xml" value="0.264" />
+        <entry key="..\:/Users/hassa/AndroidStudioProjects/Leacture Examples/ObitTechGUI/app/src/main/res/layout/activity_saved_receipt.xml" value="0.25" />
+        <entry key="..\:/Users/hassa/AndroidStudioProjects/Leacture Examples/ObitTechGUI/app/src/main/res/layout/dialog_card.xml" value="0.264" />
+        <entry key="..\:/Users/hassa/AndroidStudioProjects/Leacture Examples/ObitTechGUI/app/src/main/res/layout/item_btn.xml" value="0.25" />
+        <entry key="..\:/Users/hassa/AndroidStudioProjects/Leacture Examples/ObitTechGUI/app/src/main/res/layout/receipt_row.xml" value="0.264" />
+        <entry key="..\:/Users/hassa/AndroidStudioProjects/Leacture Examples/ObitTechGUI/app/src/main/res/layout/recycleview_receipt_horizontal.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
