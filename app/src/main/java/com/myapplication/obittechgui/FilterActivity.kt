@@ -23,7 +23,6 @@ class FilterActivity : AppCompatActivity() {
         findView()
         onClickListner()
         onBackPress()
-
         val category=resources.getStringArray(R.array.Categories)
         val spinner=findViewById<Spinner>(R.id.spinner)
 
